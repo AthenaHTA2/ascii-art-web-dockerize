@@ -1,3 +1,3 @@
-module example.com/m
+module ascii-art-web-export-file
 
-go 1.17
+go 1.18
